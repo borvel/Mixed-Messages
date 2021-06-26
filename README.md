@@ -57,11 +57,10 @@ To do:
 ## Acknowledgements
 Give credit here.
 - This project was inspired by...codecademy
-- This project was based on [this tutorial]https://www.codecademy.com/paths/full-stack-engineer-career-path/tracks/fscp-javascript-syntax-portfolio-project/modules/fscp-mixed-messages/kanban_projects/mixed-messages).
+- This project was based on [this tutorial](https://www.codecademy.com/paths/full-stack-engineer-career-path/tracks/fscp-javascript-syntax-portfolio-project/modules/fscp-mixed-messages/kanban_projects/mixed-messages).
 
 
 ## Contact
 Created by Boris Pavel - feel free to contact me!
 
 
-# Mixed-Messages
